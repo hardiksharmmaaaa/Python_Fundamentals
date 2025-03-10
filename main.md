@@ -1,8 +1,7 @@
-# Python Interview Questions and Answers for Interview Preperation
+# 100 Python Fundamental Interview Questions and Answers
 
-### 1. What are key features of python ? 
+### 1. What are the key features of Python programming language?
+**Answer:**  
+Python is an interpreted, high-level, dynamically typed, and garbage-collected programming language. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
 
-**Answer:**
-It is interpreted, High Level Language, dynamic typed programming language which supports multiple programming paradigms, OOPS and functional programming. 
-Contains packages/modules and Highly used in industry. 
 ---
