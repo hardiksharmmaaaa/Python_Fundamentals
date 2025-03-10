@@ -1,4 +1,4 @@
-# 100 Python Fundamental Interview Questions and Answers
+# Python Fundamental Interview Questions and Answers
 
 ### 1. What are the key features of Python programming language?
 **Answer:**  
